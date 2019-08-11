@@ -1,0 +1,35 @@
+[fixed] Default Password: 123456
+Change password profile: 
+User profile
+
+[fixed] image profile
+[fixed] product price wrong permission
+[fixed] Variant latest not working
+[fixed] Variant cannot delete -> Dubplicate
+
+Product Notes -> underline
+Product Notes -> auto set when order
+
+Due Date not yet calculate
+Due Date should higlign when expire -> Settings
+
+[fixed] Quotation Clear action to supplier
+
+Deposit Money
+
+[fixed] Currency Exchange Rate
+
+[fixed] Amount Due exchange wrong
+
+[fixed] View Porduct cannot set vairant
+
+[fixed] Unit Module not yet permission -> use product permission
+
+Add type (broken, solved) in stock process
+
+Quotation not show print option
+[fixed] allowExport is not working well
+
+Hide as defualt
+Config
+Auth
